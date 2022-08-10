@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Elijovial
 - 👀 I’m interested in technology 
 - 🌱 I’m currently learning software engineering 
-- 💞️ I’m looking to collaborate on this platform 
+- 💞️ I’m looking to collaborate with great minds on this platform 
 - 📫 How to reach me 08037259326
 
 <!---
